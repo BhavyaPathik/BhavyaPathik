@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/39/96/c4/3996c44a04c2edc9628348c07fd73f4e.gif)
 <h1 align="center">Hi 👋, I'm Bhavya Pathik (QuasarX)</h1>
 <h4 align="center">I like to learn and make things.. </h4>
-<img align="right" alt="coding" width="400" src="https://emilysmah.com/wp-content/uploads/2023/02/piskel_cat.gif">
+
 
 <p align="left"> <a href="https://twitter.com/bhavya_pathik" target="blank"><img src="https://img.shields.io/twitter/follow/bhavya_pathik?logo=twitter&style=for-the-badge" alt="bhavya_pathik" /></a> </p>
 
