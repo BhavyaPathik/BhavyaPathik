@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/39/96/c4/3996c44a04c2edc9628348c07fd73f4e.gif)
-<h1 align="center">Hi 👋, I'm Bhavya Pathik (QuasarX)</h1>
+<h1 align="center">Hi, I'm Bhavya Pathik (QuasarX)</h1>
 <h4 align="center">I like to learn and make things.. </h4>
 
 
